@@ -51,7 +51,7 @@ If you have successfully output `feature.pkl`, you can have a very fast featurin
 ./run_alphafold.sh \
 -d data \
 -o output \
--m model_1_multimer,model_2_multimer,model_3_multimer,model_4_multimer,model_5_multimer \
+-m model_1_multimer_v3,model_2_multimer_v3,model_3_multimer_v3,model_4_multimer_v3,model_5_multimer_v3 \
 -p multimer \
 -i input/GA98.fasta \
 -t 1800-01-01 
