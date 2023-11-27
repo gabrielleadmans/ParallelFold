@@ -26,7 +26,7 @@ We recommend to install AlphaFold locally, and not using **docker**.
 
 ```bash
 # clone this repo
-git clone https://github.com/Zuricho/ParallelFold.git
+git clone https://github.com/RSE-Cambridge/ParallelFold.git
 
 # Create a miniconda environment for ParaFold/AlphaFold
 # Recommend you to use python 3.8, version < 3.7 have missing packages, python versions newer than 3.8 were not tested
